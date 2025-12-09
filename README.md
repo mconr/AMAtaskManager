@@ -3,6 +3,7 @@
 
 ## Présentation
 GProjet est une application de gestion de projets Agile (Scrum) permettant de suivre les sprints, les tâches, les membres et de générer des rapports PDF détaillés. Elle se compose d’un backend Node.js/Express/PostgreSQL et d’un frontend React/Vite.
+<img width="1920" height="967" alt="image" src="https://github.com/user-attachments/assets/bfcf1c1c-e74f-42d9-b07f-e74be205c9e1" />
 
 ---
 
