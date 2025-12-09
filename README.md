@@ -13,7 +13,7 @@ GProjet est une application de gestion de projets Agile (Scrum) permettant de su
 ## TABLEAU DES ISSUES
 <img width="1920" height="1043" alt="image" src="https://github.com/user-attachments/assets/de986c4f-23d7-408e-9de0-5c9131512cf9" />
 
-## STATS DU PROJET
+## 
 <img width="1920" height="1043" alt="image" src="https://github.com/user-attachments/assets/5a6cbec8-2a32-422a-af06-41f393f01abc" />
 
 ##
