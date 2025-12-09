@@ -3,7 +3,29 @@
 
 ## Présentation
 GProjet est une application de gestion de projets Agile (Scrum) permettant de suivre les sprints, les tâches, les membres et de générer des rapports PDF détaillés. Elle se compose d’un backend Node.js/Express/PostgreSQL et d’un frontend React/Vite.
+
+## LOGIN
 <img width="1920" height="967" alt="image" src="https://github.com/user-attachments/assets/bfcf1c1c-e74f-42d9-b07f-e74be205c9e1" />
+
+## PAGE DES PROJETS
+<img width="1920" height="967" alt="image" src="https://github.com/user-attachments/assets/ece22f12-0fff-4e9c-a5e6-633e1bbbc7c5" />
+
+## TABLEAU DES ISSUES
+<img width="1920" height="1043" alt="image" src="https://github.com/user-attachments/assets/de986c4f-23d7-408e-9de0-5c9131512cf9" />
+
+## STATS DU PROJET
+<img width="1920" height="1043" alt="image" src="https://github.com/user-attachments/assets/5a6cbec8-2a32-422a-af06-41f393f01abc" />
+
+##
+<img width="1920" height="1553" alt="image" src="https://github.com/user-attachments/assets/08d26987-5127-4d18-adc1-26424df0c7f7" />
+
+##
+<img width="1920" height="1552" alt="image" src="https://github.com/user-attachments/assets/d7176646-93ac-48a5-abf8-b94e57752345" />
+
+
+## PROFILE
+<img width="1920" height="1043" alt="image" src="https://github.com/user-attachments/assets/06dc69a4-167e-43a6-be42-f43beaaee8ea" />
+
 
 ---
 
